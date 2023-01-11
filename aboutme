@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All about me</title>
+</head>
+<body>
+  <h1>About me</h1>
+  <main>
+    <img 
+      src="images/julio1.png" 
+      alt="Julio Cesar in 2022"
+    />
+  <h2>Julio Cesar Cortecero</h2>
+    <p>Hi everyone! Let me introduce myself. I am Julio Cesar Cortecero, I am from Colombia. I live in Cartagena in the caribbean coast of Colombia. I like to go to the beach, dance and listen to music.</p>
+    <p>I have been member since 2014 and I had the opportunity to serve in a mission in La Paz, Bolivia. My Favorite scripture is Mosiah 2: 41.
+      <p>I am a begginer of this but I love to learn and hope to obtain more education and serve others. Thank you for looking at my web page.</p>
+    </p>
+  </main>
+</body>
+</html>
